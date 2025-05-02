@@ -13,4 +13,4 @@ class Solution:
             b = b.next.next
 
         return a
-        
+    
